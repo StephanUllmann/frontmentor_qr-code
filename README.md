@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/StephanUllmann/frontmentor_qr-code/blob/main/README.md)
-- Live Site URL: [Add live site URL here](https://cool-axolotl-fefbcc.netlify.app/)
+- Solution URL: [readme](https://github.com/StephanUllmann/frontmentor_qr-code/blob/main/README.md)
+- Live Site URL: [cool-axolotl-fefbcc.netlify.app](https://cool-axolotl-fefbcc.netlify.app/)
 
 ## My process
 
@@ -40,5 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - to center a container vertically its parent element needs a height greater than the container
 
 ## Author
+
+Stephan Ullmann
 
 - Frontend Mentor - [@StephanUllmann](https://www.frontendmentor.io/profile/StephanUllmann)
